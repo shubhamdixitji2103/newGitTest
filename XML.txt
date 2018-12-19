@@ -1,0 +1,31 @@
+<PaymentResponseTraxDTO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TotalNumberofPaymentStatuses>1</TotalNumberofPaymentStatuses>
+  <ProcessPaymentResponse>
+    <BusinessUnit>35101</BusinessUnit>
+    <ChequeNumber />
+    <Country />
+    <Currency />
+    <ErrorCode>4003</ErrorCode>
+    <FailureDescription>System error</FailureDescription>
+    <LedgerAccountID>2000002</LedgerAccountID>
+    <OriginalPaymentAmount />
+    <PaidDate />
+    <PaymentID />
+    <PaymentMethod>B</PaymentMethod>
+    <PaymentProcessInd />
+    <PaymentStatus>FRJ</PaymentStatus>
+    <PaymentType>GPP</PaymentType>
+    <Reference />
+    <SecondarySource>MERIDIAN</SecondarySource>
+    <SourcePaymentReference>4C367BFD102E1041</SourcePaymentReference>
+    <SourceSystem>CLAIMCONNECT</SourceSystem>
+    <Status>R</Status>
+    <TransferDate>2018-10-03T20:31:24.632</TransferDate>
+    <UniquePaymentID />
+  </ProcessPaymentResponse>
+  <HasError>false</HasError>
+
+
+
+------
+sit 42E4CDF33E54D0D5
