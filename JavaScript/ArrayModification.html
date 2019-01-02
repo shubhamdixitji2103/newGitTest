@@ -1,0 +1,32 @@
+<html>
+  <head>
+     
+    </head>
+    
+    <body>
+         <script>
+             
+             /*mMAKE THIS PATTERN ["Horse", "Fish", "Fish", "Fish", "Fish", "Fish", "Fish", "Fish", "rabbit", "dog", "Sheep"]*/
+        var animals=["cat","dog","rabbit","bird"];
+             animals.pop();
+             animals.shift();
+             //animals.reverse();
+            animals[9]="Horse";
+             animals.unshift("Sheep");
+             animals.reverse();
+             animals.fill("Fish",1,8);
+             //animals.push("Sheep");
+             //animals.push("sheep");//Adds an item in last
+             
+             //var remove1 = animals.pop(); //Remove item from last
+            /* animals.shift();//Remove first item
+             animals.unshift("Horse");//Add Item in starting
+             animals.splice(2,1);*/
+             
+            // animals.reverse();
+            /*
+             //console.log(remove1);*/
+             console.log(animals);
+        </script>
+    </body>
+</html>
