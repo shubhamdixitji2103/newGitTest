@@ -3,5 +3,6 @@
 3) git add XML.txt //adds the file 
 4) git commit -m "Message for the commit" //locks the file 
 5) git push :  //pushes the file into repository 
-5) git branch  //Lists all branches of the repository 
+6) git branch  //Lists all branches of the repository 
+7) git clone -b NewBranch https://github.com/shubhamdixitji2103/newGitTest.git //Clones a particular branch NewBranch from the repository
 
