@@ -1,4 +1,4 @@
-1) git clone __https://github.com/shubhamdixitji2103/newGitTest.git <https://github.com/shubhamdixitji2103/newGitTest.git>  
+1) git clone https://github.com/shubhamdixitji2103/newGitTest.git
 2) git status -- -//list the fikle that are new ior seems to be changed 
 3) git add XML.txt //adds the file 
 4) git commit -m "Message for the commit" //locks the file 
