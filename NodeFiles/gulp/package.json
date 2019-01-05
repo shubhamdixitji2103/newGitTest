@@ -1,0 +1,25 @@
+{
+  "name": "firstproj",
+  "version": "1.0.0",
+  "description": "This is a simple gulp file tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpfile",
+    "tutorial",
+    "js",
+    "node",
+    "npm"
+  ],
+  "author": " (ISC)",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}

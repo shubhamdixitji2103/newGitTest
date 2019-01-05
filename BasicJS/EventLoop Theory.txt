@@ -1,0 +1,25 @@
+Event Loop : Event queue keeps track of all the functions/messages that are waiting to be executed on JS.For setTimeout Function....Event Queue----->Stack------>WebAPI for 5000 Ms----->Event Queue------>Stack
+
+Single Threaded Asynchronus language----Because if it goes synchronous the browser wont respond untill the rquest gets completes.
+
+Asynchronous callback is the solution
+
+Concurrency and Event Loop : 
+setTimeout can delay the code of the particular message to tee set timer and mimicks it as if it has work concurrently
+It sounds fishy but actually what happens is that the setTimeout() function is pusehed to WebAPIs which can hadle Multiple Threads and what happens is that after the Wait time of prescribed time, The 
+
+
+
+PROTOTYPES :
+Nearly all objects in JavaScript are instances of Object; a typical object inherits properties (including methods) from Object.prototype,
+Nearly all function in JavaScript are instances of Object; a typical object inherits properties (including methods) from function.prototype,
+
+JavaScript is a bit confusing for developers experienced in class-based languages (like Java or C++), as it is dynamic and does not provide a class implementation per se (the class keyword is introduced in ES2015, but is syntactical sugar, JavaScript remains prototype-based).
+
+When it comes to inheritance, JavaScript only has one construct: objects. Each object has a private property which holds a link to another object called its prototype. That prototype object has a prototype of its own, and so on until an object is reached with null as its prototype. By definition, null has no prototype, and acts as the final link in this prototype chain.
+
+
+PROMISES :
+The Promise object represents the eventual completion (or failure) of an asynchronous operation, and its resulting value.
+We also provide reason for the Rejection after catching it in
+

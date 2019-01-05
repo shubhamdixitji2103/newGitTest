@@ -1,0 +1,11 @@
+OBJECT ARRAY FUNCTIONS
+
+Prototype()
+/* Callback()
+promises */                 basic
+this                        done
+let/const                   done
+JSON KEY VALUE PAIRS           
+ARROW FUNCTIONS             Done
+JS Event Loop               Done
+JS Asynchronous???          Done
