@@ -6,3 +6,6 @@
 6) git branch  //Lists all branches of the repository 
 7) git clone -b NewBranch https://github.com/shubhamdixitji2103/newGitTest.git //Clones a particular branch NewBranch from the repository
 
+
+--It is observed uptill now that When you pull from a patricular branch , then Push happens to that branch only until and unless some else branch is pulled
+
